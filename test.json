@@ -1,0 +1,64 @@
+{
+	"name": "flare",
+	"children": [
+		{
+			"name": "flora",
+			"children": [
+				{"name": "Alismataceae", "value": 2},
+				{"name": "Apiaceae", "value": 2},
+				{"name": "Araceae", "value": 2},
+				{"name": "Asteraceae", "value": 2},
+				{"name": "Boraginaceae", "value": 2},
+				{"name": "Brassicaceae", "value": 2},
+				{"name": "Caryophyllaceae", "value": 2},
+				{"name": "Chenopodiaceae", "value": 2},
+				{"name": "Convolvulaceae", "value": 2},
+				{"name": "Cyperaceae", "value": 3},
+				{"name": "Fabaceae", "value": 3},
+				{"name": "Geraniaceae", "value": 2},
+				{"name": "Hypericaceae", "value": 1},
+				{"name": "Juncaceae", "value": 4},
+				{"name": "Lamiaceae", "value": 4},
+				{"name": "Lythraceae", "value": 1},
+				{"name": "Plantaginaceae", "value": 6},
+				{"name": "Poaceae", "value": 9},
+				{"name": "Polygonaceae", "value": 2},
+				{"name": "Ranunculaceae", "value": 6},
+				{"name": "Rosaceae", "value": 1},
+				{"name": "Rubiaceae", "value": 2},
+				{"name": "Verbenaceae", "value": 1}
+			]
+		},
+		{
+			"name": "fauna",
+			"children": [
+				{
+					"name": "vertebrati",
+					"children": [
+						{"name": "Raganella italiana", "value": 1},
+						{"name": "Rana dalmatina", "value": 1},
+						{"name": "Rana di Berger", "value": 1},
+						{"name": "Rospo smeraldino italiano", "value": 1},
+						{"name": "Tritone crestato italiano", "value": 1},
+						{"name": "Tritone punteggiato italiano", "value": 1}
+					]
+				},
+				{
+					"name": "invertebrati",
+					"children": [
+						{"name": "Adenophorea", "value": 1},
+						{"name": "Branchiopoda", "value": 7},
+						{"name": "Clitellata", "value": 2},
+						{"name": "Eurotatoria", "value": 20},
+						{"name": "Insecta", "value": 15},
+						{"name": "Maxillopoda", "value": 8},
+						{"name": "Ostracoda", "value": 8},
+						{"name": "Turbellaria", "value": 1},
+						{"name": "campione indeterminato", "value": 1}
+					]
+				}
+			]
+		}
+	]
+}
+
